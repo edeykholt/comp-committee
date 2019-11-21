@@ -7,7 +7,7 @@ The compensation committee is a standing committee of the RChain Cooperative (RC
 The purpose of this committee is to discharge the responsibilities of the board relating to overseeing
   1. RCC's compensation philosophy, policies, plans and practices;
   2. the compensation of members of the board and the executive officers of RCC;
-  3. the periodic review of the performance of RCC's CEO relative to goals and objectives related to compensation; and
+  3. the periodic review of the performance of RCC's CEO relative to goals and objectives related to compensation
 
 **Compensation Philosophy**
 
