@@ -8,7 +8,6 @@ The purpose of this committee is to discharge the responsibilities of the board 
   1. RCC's compensation philosophy, policies, plans and practices;
   2. the compensation of members of the board and the executive officers of RCC;
   3. the periodic review of the performance of RCC's CEO relative to goals and objectives related to compensation; and
-  4. executive officer succession planning and RCC's leadership development efforts.
 
 **Compensation Philosophy**
 
